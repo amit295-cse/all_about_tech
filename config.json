@@ -1,0 +1,14 @@
+{
+    "params": {
+        "websitename": "coder..news",
+        "fb_link": "http://facebook.com",
+        "tw_link": "http://twitter.com" ,
+        "git_link": "http://hithub.com",
+        "gmail-user": "cse190001002@iiti.ac.in",
+        "gmail-password":"80787430",
+        "no_of_post": 3,
+        "admin-user": "amiway",
+        "admin-password": "amit1002",
+        "upload_location":"C:\\Users\\amit\\PycharmProjects\\flaskProject1\\static"
+    }
+}
